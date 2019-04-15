@@ -1,0 +1,6 @@
+Problem:
+Given a string, return the first recurring character in it, or null if there are no recurring characters.
+
+Example: 
+"acbbac", return "b"
+"abcdef", return null
